@@ -1,6 +1,5 @@
-
 pip install geoplot
-pip install -r ./requirements.txt
+
 
 jupyter contrib nbextension install --user
 jupyter nbextension enable collapsible_headings/main
