@@ -7,8 +7,8 @@ numpy==1.17.*
 mapclassify==2.2.0
 geopandas==0.6.1
 Fiona==1.8.11
-statsmodels
 descartes
+geoplot==0.4.0
 
 jupyterlab>=1.0
 jupyter==1.0.0
