@@ -1,3 +1,3 @@
-# CDRC_Into_to_Python
+# MSc. intro to programming course materials 
  
-https://mybinder.org/v2/gh/FrancescaPontin/CDRC_Into_to_Python/master
+https://mybinder.org/v2/gh/FrancescaPontin/MSc_GIS_Intro_to_Python/HEAD
