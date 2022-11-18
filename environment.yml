@@ -9,7 +9,7 @@ dependencies:
   - mapclassify
   - matplotlib
   - seaborn
-  - cartopy 0.17.0
+  - cartopy =0.17.0
   - descartes
   - ipywidgets
   - pyproj
