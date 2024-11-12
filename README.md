@@ -10,7 +10,7 @@ Day 1 afternoon: MSc_GIS_Intro_to_Python_part_2_updated.ipynb<br />
 Day 2: MSc_GIS_Intro_to_Python_part_3_updated.ipynb<br />
 
 ## Save your notebook:<br />
-### Click File in the top menu bar, you can choose:<br />
+Click File in the top menu bar, you can choose:<br />
 (1) Save a copy in Drive, which creates a copy of the notebook in your Google Drive; <br />
 (2) Save a copy in GitHub; or <br />
 (3) Download a copy on your local hard drive. <br />
